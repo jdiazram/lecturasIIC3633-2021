@@ -2,4 +2,4 @@
 
 1.- [Lectura 1: Collaborative filtering recommender systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura1-1.md)
 
-2.- [Lectura 2: Collaborative filtering recommender systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura1-1.md)
+2.- [Lectura 2: Matrix factorization techniques for recommender system](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura2-1.md)
