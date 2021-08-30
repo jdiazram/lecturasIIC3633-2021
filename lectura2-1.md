@@ -1,3 +1,12 @@
 # Crítica a Matrix factorization techniques for recommender system. Koren, Y., Bell, R., & Volinsky, C. (2009).
 
 [link paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.3234&rep=rep1&type=pdf)
+
+Este paper habla acerca de las Técnicas de Factorización Matricial para Sistemas Recomendadores y como en base al concurso de NetFlix estas técnicas mostraron ser superiores a las de vecinos cercanos de la época. Además, mencionan las estrategias de los sistemas recomendadores, métodos de factorización matricial, modelo básico de factorización matricial, algoritmos de aprendizaje, sesgos, fuentes de entrada, lo relacionado con la dinámica temporal, niveles de confianzas en las entradas y el concurso del premio de Netflix. Así se entrega un contexto y explicación de la factorización matricial.
+
+Me parece, desde un punto mas natural, lo relacionado a las recomendaciones de ítems, analizarlos como matrices, las filas como usuarios e ítems como las columnas y en base a todas las operaciones matemáticas que se pueden realizar en matrices (ya conocidas desde las matemáticas) se pueda predecir o inferir algún rating desconocido para recomendar algún ítem o lista de ítems.
+
+Uno de los puntos que estoy de acuerdo con los autores, es que con la factorización matricial se puede agregar información adicional, puesto que no siempre se contará con alguna calificación o rating por parte de usuario. Se torna útil manejar otro tipo de información, como por ejemplo el comportamiento del usuario, historial de compras y navegación, patrones de búsqueda o incluso el movimiento del mouse, siendo esta información implícita para mejorar las recomendaciones personalizadas.
+También estoy de acuerdo en que la imputación de datos puede acarrear malas recomendaciones, ya que son datos ficticios que se agregan en los datos faltantes para tener una matriz densa, con lo cual se distorsiona la realidad de los ratings de los usuarios.
+
+No estoy de acuerdo con lo planteado por los autores en relación con la complejidad de los modelos, puesto que no explican el porque de su afirmación. Si bien pueden estar correlacionada la información (parámetros) en el modelo, pero esto no produce mejores precisiones. Tener más cantidad de parámetros no implica mejor precisión, ya que se necesita realizar análisis de correlaciones o algo similar, para ver el peso de cada parámetro, con lo cual se podrían eliminar los que no aportan, eso creo faltó mejorar en su explicación para dar sustento a lo dicho.
