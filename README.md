@@ -7,3 +7,5 @@
 3.- [Lectura 3: Evaluating Recommendation Systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura3-1.md)
 
 4.- [Lectura 4: Content-Based Recommendation Systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura4-1.md)
+
+5.- [Lectura 5: Combining Predictions for Accurate Recommender Systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura5-1.md)
