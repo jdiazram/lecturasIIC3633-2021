@@ -9,3 +9,5 @@
 4.- [Lectura 4: Content-Based Recommendation Systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura4-1.md)
 
 5.- [Lectura 5: Combining Predictions for Accurate Recommender Systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura5-1.md)
+
+6.- [Lectura 6: Deep Learning Based Recommender System: A Survey and New Perspectives](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura6-1.md)
