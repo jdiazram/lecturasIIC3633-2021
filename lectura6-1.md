@@ -10,7 +10,7 @@ En dos cosas estoy en desacuerdo como limitaciones: (1) las redes neuronales son
 
 Los autores dan una buena perspectiva toxonómica del aporte de Deep learning a los sistemas de recomendación y como significativamente han mejorado los resultados sobre los modelos tradicionales, lo que ejemplifica el gran impacto, no solo en sistemas de recomendación, que ha realizado Deep Learning en la gran mayoría de las tareas donde se ha aplicado.
 
-
+----------------------------------------------
 [1] Haya Elayan and Moayad Aloqaily and Mohsen Guizani, Internet of Behavior (IoB) and Explainable AI Systems for Influencing IoT Behavior. 2021. https://arxiv.org/abs/2109.07239
 
 [2] Jonathan Frankle and Michael Carbin. The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. 2019. https://arxiv.org/abs/1803.03635
