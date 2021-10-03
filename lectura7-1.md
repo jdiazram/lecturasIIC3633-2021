@@ -1,7 +1,7 @@
 # Crítica a Interactive recommender systems: A survey of the state of the art and future research challenges and opportunities. He, C., Parra, D., & Verbert, K. (2016).
 [link paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417416300367)
 
-En este paper realizan una revisión de los trabajos relacionados con Sistemas de Recomendación en base a un marco de trabajo propuestos por los autores.
+En este paper realizan una revisión de los trabajos relacionados con Sistemas de Recomendación en base a un marco de trabajo propuesto por los autores.
 
 Creo interesante el usar otros campos de las ciencias para aplicarlos en computación, como por ejemplo la teoría de Gestalt, la cual viene desde la psicología y explica la capacidad visual (u otros sentidos) del ser humano para aprender, pero que esta muy ligada con como los sistemas recomendadores pueden visualizar la información para que sea relevante para los usuarios con el fin de realizar buenas recomendaciones. 
 
