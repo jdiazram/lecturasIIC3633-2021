@@ -11,3 +11,5 @@
 5.- [Lectura 5: Combining Predictions for Accurate Recommender Systems](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura5-1.md)
 
 6.- [Lectura 6: Deep Learning Based Recommender System: A Survey and New Perspectives](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura6-1.md)
+
+7.- [Lectura 7: Interactive recommender systems: A survey of the state of the art and future research challenges and opportunities](https://github.com/jdiazram/lecturasIIC3633-2021/blob/main/lectura7-1.md)
